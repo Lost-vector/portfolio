@@ -1,0 +1,15 @@
+.card-links {
+  display: flex;
+  gap: 1rem;
+}
+
+.card-links a {
+  color: var(--accent);
+  font-family: var(--font-mono);
+  font-size: 0.9rem;
+  text-decoration: none;
+}
+
+.card-links a:hover {
+  text-decoration: underline;
+}
